@@ -10,3 +10,7 @@ git stash drop
 ```
 git reset --hard HEAD
 ```
+* Rename file in Git
+```
+git mv <old file name full path> <new file name>
+```
