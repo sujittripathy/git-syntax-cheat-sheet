@@ -1,4 +1,4 @@
-# git-syntax-cheat-sheet
+# Git Syntax cheat sheet
 
 * Remove unstaged change files
 ```
