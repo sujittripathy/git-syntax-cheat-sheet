@@ -14,3 +14,7 @@ git reset --hard HEAD
 ```
 git mv <old file name full path> <new file name>
 ```
+* Undo a local file change. This will undo the local changes and replace with remote version.
+```
+git checkout HEAD <file_name>
+```
