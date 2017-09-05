@@ -18,7 +18,7 @@ git mv <old file name full path> <new file name>
 ```
 git checkout HEAD <file_name>
 ```
-* Delete a branch
+* Delete a branch from local
 ```
 git branch -D <local_branch_name>
 ```
