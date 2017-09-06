@@ -5,7 +5,8 @@
 git stash
 git stash drop
 git stash pop (while popping files, this will merge the files)
-git stash list (listing all the files on stack)
+git stash list (just list down all the stash list and not the file details)
+git stash show (list down all the files on stash)
 ```
 
 * Reset local branch changes for all files
