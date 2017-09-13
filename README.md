@@ -25,3 +25,7 @@ git checkout HEAD <file_name>
 ```
 git branch -D <local_branch_name>
 ```
+
+```
+git log --all --decorate --graph --oneline
+```
