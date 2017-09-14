@@ -26,6 +26,13 @@ git checkout HEAD <file_name>
 git branch -D <local_branch_name>
 ```
 
+* Display history of branches in local
 ```
 git log --all --decorate --graph --oneline
+```
+
+* Rebasing from remote branch with local after commit of files to local branch
+```
+git rebase origin/master
+git rebase --skip (if rebase gets stuck due to any issue, either resolve or skip)
 ```
