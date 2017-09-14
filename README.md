@@ -37,3 +37,8 @@ git rebase origin/master
 git rebase --skip (if rebase gets stuck due to any issue, either resolve or skip)
 git push origin <feature branch>
 ```
+
+* Where remote is pointing to 
+```
+git remote -v
+```
