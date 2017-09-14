@@ -35,4 +35,5 @@ git log --all --decorate --graph --oneline
 ```
 git rebase origin/master
 git rebase --skip (if rebase gets stuck due to any issue, either resolve or skip)
+git push origin <feature branch>
 ```
