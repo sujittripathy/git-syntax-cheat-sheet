@@ -28,7 +28,7 @@ git branch -D <local_branch_name>
 
 * Display history of branches in local
 ```
-git log --all --decorate --graph --oneline
+git log --all --decorate --graph --oneline --pretty=oneline
 ```
 
 * Rebasing from remote branch with local after commit of files to local branch
