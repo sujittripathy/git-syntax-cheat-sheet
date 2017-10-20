@@ -42,3 +42,7 @@ git push origin <feature branch>
 ```
 git remote -v
 ```
+* Clone a specific branch from remote git
+```
+git clone -b release_branch_1704.1 https://github.wellsfargo.com/app-1CUST/CustomerConversationTool.git
+```
