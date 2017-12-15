@@ -48,10 +48,32 @@ contrive
 
 
 
+List 6
+------
+specious
+furtive*
+misconstrue
+maladroit
+pejorative
+rebuke/reproach
+contrition
+imprudent
+disseminate
+mendacity
+dilatory
+askance
+deleterious
+ignominious
 
 
 
 
+
+Misc
+-----
+crept
+affectation
+treacly
 
 
 
