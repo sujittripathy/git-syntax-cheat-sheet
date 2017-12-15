@@ -44,8 +44,56 @@ List 3
 ------
 spurious
 contrive
+incongruous
+staunch*
+elucidate
+circumvent
+frustrate
+haughty
+guileless
+forlon
+delineate*
+travestry
+precocious
+disaffected*
+
+List 4
+--------
+temperance*
+reconcile
+incorrigible*
+espouse
+construe
+petulant
+intransigent
+pedantic
+myopic*
+ingratiate
+denigrate
+contigent**
+indifference
+provincial
+ignoble
+forthcoming**
+exonerate
+ostentatious
+refute
+admonitory/admonish
 
 
+List 5
+-------
+insolent
+obsequious/sycophant
+subversive
+sanction**
+inveterate
+propitious
+munificient*?
+hegemony
+intrepid
+tempered
+reverent/venerate
 
 
 List 6
