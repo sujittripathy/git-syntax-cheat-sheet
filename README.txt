@@ -53,7 +53,7 @@ haughty
 guileless
 forlon
 delineate*
-travestry
+travesty
 precocious
 disaffected*
 
