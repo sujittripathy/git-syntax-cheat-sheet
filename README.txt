@@ -69,7 +69,7 @@ List 7
 ------
 serendipity
 retiring
-profuse
+profuse/raft
 unnerve
 pine
 bleak
@@ -80,6 +80,34 @@ indict
 screed*
 slapdash
 vindictive
+
+List 8
+------
+vicarious
+flush (to be in abundance)
+corroborate
+sanctimonious
+beatific
+moment    (significant & important value)
+amok
+fleece
+cardinal
+extenuating
+checkered*
+contrite
+becoming
+errant
+desecrate
+replete
+exhort
+cogent
+junta
+stem (to hold back/limit the flow or growth of something)
+unconscionable
+
+
+
+
 
 
 
