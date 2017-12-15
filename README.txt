@@ -65,6 +65,30 @@ askance
 deleterious
 ignominious
 
+List 7
+------
+serendipity
+retiring
+profuse
+unnerve
+pine
+bleak
+reprobate
+embroiled
+indignant
+indict
+screed*
+slapdash
+vindictive
+
+
+
+
+
+
+
+
+
 
 
 
