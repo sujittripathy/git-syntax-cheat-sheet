@@ -38,7 +38,7 @@ frivolous
 vociferous
 volubility
 impudent
-glut
+
 
 List 3
 ------
@@ -69,7 +69,7 @@ List 7
 ------
 serendipity
 retiring
-profuse/raft
+profuse/raft/glut
 unnerve
 pine
 bleak
@@ -104,6 +104,29 @@ cogent
 junta
 stem (to hold back/limit the flow or growth of something)
 unconscionable
+
+List 9
+------
+impermeable
+consummate**
+stolid
+obdurate
+pithy
+flounder
+plodding
+deter
+raffish
+moot**
+snide
+patronize
+incessant
+respite
+
+
+
+
+
+
 
 
 
