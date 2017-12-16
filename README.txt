@@ -117,7 +117,7 @@ List 7
 ------
 serendipity
 retiring
-profuse/raft/glut
+profuse/raft/glut/profusion
 unnerve
 pine
 bleak
@@ -170,6 +170,44 @@ patronize
 incessant
 respite
 
+List 10
+-------
+brusquely
+leery/chary/wary
+foible
+destitude
+complacent
+maxim/aporism/epigram
+travail
+goad/provoke/badger/spur
+peevish
+devolve
+eke (manage)
+
+List 11
+-------
+buttress
+eccentric
+tribulation
+wanton/wicked/malicious
+precarious
+fawn
+ascribe
+veneer
+foolhardy
+fingle
+piquant
+rile
+cavalier
+belittle
+incense* (make furious)
+bedrudge**
+behoove
+redress
+
+
+
+
 
 
 
@@ -197,6 +235,7 @@ Misc
 crept
 affectation
 treacly
-
+shrewd
+canny
 
 
