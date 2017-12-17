@@ -212,7 +212,9 @@ lacerate
 transmute
 tempestuous
 chimera
-
+despodent
+impugn
+sqatter
 
 
 
@@ -245,7 +247,13 @@ affectation
 treacly
 shrewd
 canny
-
 smug
-
-
+bungling
+imperil
+elegiac
+politic
+obliterate
+subverts
+empirical
+heretofore
+idyll
