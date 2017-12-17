@@ -205,6 +205,14 @@ bedrudge**
 behoove
 redress
 
+dovetail
+stealthy
+dilapitated
+lacerate
+transmute
+tempestuous
+chimera
+
 
 
 
@@ -237,5 +245,7 @@ affectation
 treacly
 shrewd
 canny
+
+smug
 
 
