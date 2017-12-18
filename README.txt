@@ -83,7 +83,7 @@ admonitory/admonish
 
 List 5
 -------
-insolent
+insolent/rude
 obsequious/sycophant
 subversive
 sanction**
@@ -239,7 +239,7 @@ limpid
 benighted
 mulct*
 imbroglio
-pyrrhic
+pyrrhic*
 mellifluous
 sententious
 fell*
@@ -252,6 +252,40 @@ arch
 impecunious
 remonstrate
 pollyannaish
+picayune/petty/worthless
+excoriate/censure/criticize
+execrate/curse at
+expurgate
+
+List 14
+-------
+flummox
+litany
+insouciance
+importune
+probity
+bowdlerize
+vitriolic
+charlatan
+unforthcoming*
+effrontery
+redoubtable
+quail (drawback, as with fear or pain)
+approbatory*
+recapitulation
+mordant
+enjoin*
+
+temerity
+umbrage
+perspicacious*
+prognostication*
+plucky
+anemic/enervate
+
+
+
+
 
 
 
