@@ -216,6 +216,56 @@ despodent
 impugn
 sqatter
 
+List 12
+-------
+defray
+turpitude*
+anathema/hateful
+exegis
+choleric/fractious
+supercilious
+lascivious
+expansive*
+churlish
+factious/artificial
+arrant
+beg (assume something is true, asking a question and assuming that's not true)
+precipitate
+vissitude*
+
+List 13
+--------
+limpid
+benighted
+mulct*
+imbroglio
+pyrrhic
+mellifluous
+sententious
+fell*
+invective
+blinkered
+arriviste
+peremptory
+venial/pardonable/forgivable
+arch
+impecunious
+remonstrate
+pollyannaish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
