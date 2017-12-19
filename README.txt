@@ -275,7 +275,6 @@ approbatory*
 recapitulation
 mordant
 enjoin*
-
 temerity
 umbrage
 perspicacious*
@@ -283,7 +282,42 @@ prognostication*
 plucky
 anemic/enervate
 
+List 15
+-------
+perspicacious
+redoubtable
+duplicity
+abnegation
+imperious
+impetuous*
+ossify/clarify/solidify
+apposite
+surreptituous
+encumber
+unpropitous
+cosset/pamper/overindulge
+presentiment
+resentment/irritation/bitterness
+rarefied
+ribald (humorously vulgar)
+intimation
+puerile/childish
+lacerate/hurt
+immure/confine
+recrimation
+patent
+dovetail^
+subterfuge/deceit/duplicity/guile
 
+
+List 16
+-------
+
+List 17
+-------
+
+List 18
+-------
 
 
 
