@@ -308,6 +308,18 @@ recrimation
 patent
 dovetail^
 subterfuge/deceit/duplicity/guile
+nettlesome
+unprepossessing
+arrogate
+bemoan
+recrudesce
+empiricism
+reprisal
+rapprochment
+phlegmatic
+effervescent
+deign
+
 
 
 List 16
