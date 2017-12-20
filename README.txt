@@ -324,12 +324,27 @@ deign
 
 List 16
 -------
+elegiac/melancholy
+coterminous
+transmute/transform/change/alter
+assiduous
+solicitous
+mendicant/pauper
+aplomb
+callow/inexperienced
+obstuse
+fecund
+vaunted
+appropriate/allocate
+bromide
+
+
+
+
 
 List 17
 -------
 
-List 18
--------
 
 
 
